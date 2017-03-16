@@ -343,10 +343,10 @@ $(document).ajaxStop(function() {
                             }
                         };
 
-                    if ($('script[src="https://dl.dropboxusercontent.com/u/185930550/jquery.tablesorter.js"]').length > 0) {
+                    if ($('script[src="https://cdn.rawgit.com/JStaler/iControl/0be1ae95/jquery.tablesorter.js"]').length > 0) {
                         $(tableProduct).tablesorter({ textExtraction: myTextExtraction, sortList: [[2, 0]] });
                     } else {
-                        loadScript("https://dl.dropboxusercontent.com/u/185930550/jquery.tablesorter.js", addClassSortTable);
+                        loadScript("https://cdn.rawgit.com/JStaler/iControl/0be1ae95/jquery.tablesorter.js", addClassSortTable);
                     }
                                      
 
