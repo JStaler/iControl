@@ -583,7 +583,7 @@ if (avisoOS != null) {
     
     //document.getElementById("loadingText").innerHTML = '<P>Bonus Indo Embora...</P>';
 
-    replacejscssfile("../Styles/load.css", "https://cdn.rawgit.com/JStaler/iControl/6272e7c3/load.css", "css");
+    replacejscssfile("../Styles/load.css", "https://cdn.rawgit.com/JStaler/iControl/f2132ba2/load.css", "css");
     //document.getElementById("loadingText").innerHTML = '<p>Processando...</p>';
 
     //removejscssfile("../Scripts/PageLoader.js", "js")
