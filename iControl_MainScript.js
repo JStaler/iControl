@@ -1,4 +1,4 @@
-﻿'Teste de edição Github
+﻿//Teste de edição Github
 
 var ajaxCount = 0;
 var PageUrl = "";
