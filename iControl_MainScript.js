@@ -1,4 +1,5 @@
-﻿
+﻿'Teste de edição Github
+
 var ajaxCount = 0;
 var PageUrl = "";
 var DialogTitle = "";
